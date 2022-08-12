@@ -9,6 +9,6 @@
 <p>I developed this game with the <strong>p5 js editor</strong>, with you what to see the code development, it's only to dowload and be happy.</p>
 <p>This is my first game development, so be nice to him. Thank you </p>
 <br><br>
-<p>Xoxo</p>
+<p>Xoxo,</p>
 <p>Kéllen Kern</p>
 
